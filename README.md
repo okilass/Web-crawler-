@@ -1,4 +1,4 @@
-#   Web Crawler & System Design 
+#   Web Crawler
 
 # Topic-focused web crawler system. Built with Python, using priority queueing, politeness rate-limiting, static file classification, and URL deduplication.
 

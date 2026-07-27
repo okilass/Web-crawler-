@@ -6,7 +6,7 @@ from crawler.parser import Parser
 
 def run_crawler():
     print("==================================================")
-    print("      BCS 3107 OOD Web Crawler Starting           ")
+    print("       Web Crawler Starting           ")
     print("==================================================\n")
     
     frontier = URLFrontier()
